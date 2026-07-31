@@ -1,10 +1,28 @@
-<<<<<<< HEAD
 # 🎵 AURA AI - Neural Music Generator Studio
 
 > **Developed by Faiza Soomro**
 
 An end-to-end AI Music Generation application powered by a **PyTorch Dual-Head LSTM Neural Network**, **`music21` MIDI preprocessing**, a **FastAPI** REST & WebSocket backend, and a **modern glassmorphic React web studio** with an interactive **WebAudio polyphonic synthesizer** and **waterfall piano roll visualizer**.
 
+🌐 Live Demo
+
+Frontend (UI Only):
+https://code-alpha-music-generator-ai.vercel.app/
+
+Note: The deployed website showcases the user interface only. AI music generation features require the FastAPI backend, which runs locally.
+
+📢 Deployment Note
+
+The frontend has been successfully deployed on Vercel.
+
+Due to the limitations of free hosting platforms for AI applications (FastAPI, PyTorch, and large model dependencies), the backend is not hosted online. Therefore:
+
+✅ The live demo displays the complete frontend UI.
+✅ The complete backend source code is available in this repository.
+✅ The backend works correctly when run locally.
+❌ AI music generation, model training, and API functionality are unavailable in the online demo.
+
+To experience the full functionality, clone this repository and run both the backend and frontend locally.
 ---
 
 ## 🌟 Key Features
