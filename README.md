@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎵 AURA AI - Neural Music Generator Studio
 
 > **Developed by Faiza Soomro**
@@ -135,3 +136,7 @@ MusicGeneratorAI/
 2. **Listen & Play**: Click **"Play in Synth Engine"** or switch to the **Piano Roll & Synth** tab to watch notes stream across the waterfall visualizer while playing with different instruments (Grand Piano, Synth Lead, Ambient Pad).
 3. **Train Custom Model**: Go to the **Model Training** tab, upload your own `.mid` files to the dataset, set the desired number of epochs, and click **"Start Training PyTorch Model"** to watch the loss curve decrease in real-time!
 4. **Export Tracks**: Go to the **Library** tab to download generated `.mid` files for your favorite music production software.
+=======
+# CodeAlpha_MusicGeneratorAI
+An AI-powered music generation system that uses an LSTM neural network to learn patterns from MIDI files and generate original music compositions. Built with Python, TensorFlow/Keras, and music21 as part of the CodeAlpha AI Internship.
+>>>>>>> dfdc8d25675ee72e95b5259bddfa5bb2e69bdbc0
