@@ -475,8 +475,11 @@ git push origin feature-name
 
 # 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
+You are free to use, modify, distribute, and improve this project for personal, educational, and commercial purposes, provided that the original author is credited.
+
+See the [LICENSE](LICENSE) file for more details.
 ---
 
 # 👩‍💻 Author
