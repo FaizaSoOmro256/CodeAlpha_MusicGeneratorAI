@@ -489,21 +489,27 @@ GitHub: https://github.com/FaizaSoOmro256
 
 ---
 
-# 🙏 Acknowledgements
+## 🙏 Acknowledgements
 
-Special thanks to the open-source technologies that made this project possible.
+This project was developed as part of the **CodeAlpha AI Internship**. I sincerely thank **CodeAlpha** for providing the opportunity to work on real-world AI projects and strengthen my skills in Machine Learning, Deep Learning, and Full-Stack AI development.
 
-- PyTorch
-- FastAPI
-- React
-- music21
-- mido
-- Tailwind CSS
-- Chart.js
-- WebAudio API
-- Vite
+Special thanks to the open-source community and the following technologies that made this project possible:
 
----
+* CodeAlpha
+* PyTorch
+* FastAPI
+* React
+* Vite
+* Tailwind CSS
+* music21
+* mido
+* WebAudio API
+* Chart.js
+* Lucide React
+* NumPy
+* SciPy
+* Python
+
 
 ## ⭐ Support
 
